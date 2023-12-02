@@ -1,4 +1,4 @@
-Login and SignUp screens UI with REact Native Reanimated
+Login and SignUp screens UI with REact Native Reanimated and NAtiveWind
 
 <p>
   <!-- iOS -->
