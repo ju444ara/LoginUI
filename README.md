@@ -1,4 +1,4 @@
-# Reanimated example
+Login and SignUp screens UI with REact Native Reanimated
 
 <p>
   <!-- iOS -->
